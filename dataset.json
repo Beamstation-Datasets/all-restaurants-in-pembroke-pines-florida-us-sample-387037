@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Pembroke Pines, Florida with a population of over 171k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Pembroke Pines, Florida, US",
-  "export_job_id": "c4f7d228-23b7-4b5d-bf49-b5b71b25ce5b",
+  "export_job_id": "8b28786f-9e65-42fc-96c6-080e2fc0b8c4",
   "github_org": "Beamstation-Datasets",
   "id_short": 387037,
   "location_name": "Pembroke Pines",
   "location_type": "city",
   "repo_name": "all-restaurants-in-pembroke-pines-florida-us-sample-387037",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/387037/beamstation_387037_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 9.8,
+  "sample_pct": 9.88,
   "sample_records": 40,
-  "sample_sha256": "1673dab0c7f700fa2dd98c26767c43ac9bda9e017eb9576fdfb6df74bfec7411",
-  "sample_size_bytes": 161289,
-  "total_records": 408,
-  "updated_at": "2026-04-07T11:23:29.722513+00:00"
+  "sample_sha256": "dcedf9b9b9a46a2d459f3bbb01e974d9281b203e48849f6ea88526119822c2d0",
+  "sample_size_bytes": 160262,
+  "total_records": 405,
+  "updated_at": "2026-04-14T11:16:37.268725+00:00"
 }
