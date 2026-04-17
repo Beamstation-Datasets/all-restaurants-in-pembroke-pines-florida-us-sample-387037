@@ -9,9 +9,9 @@
 | Dataset ID | `387037` |
 | Location | Pembroke Pines |
 | Category | Restaurants |
-| Full dataset size | 408 records |
-| Free sample size | 40 records (9.8%) |
-| Last export | 2026-04-07T11:23:29.722513+00:00 |
+| Full dataset size | 405 records |
+| Free sample size | 40 records (9.88%) |
+| Last export | 2026-04-14T11:16:37.268725+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pembroke-pines-florida-us-sample-387037/releases/download/sample-latest/beamstation_387037_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
