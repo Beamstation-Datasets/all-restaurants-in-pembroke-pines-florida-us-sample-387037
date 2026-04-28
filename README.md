@@ -1,6 +1,6 @@
 # All Restaurants in Pembroke Pines, Florida, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 45 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `387037` |
 | Location | Pembroke Pines |
 | Category | Restaurants |
-| Full dataset size | 232 records |
-| Free sample size | 23 records (9.91%) |
-| Last export | 2026-04-21T11:42:01.292813+00:00 |
+| Full dataset size | 452 records |
+| Free sample size | 45 records (9.96%) |
+| Last export | 2026-04-28T12:28:44.595854+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pembroke-pines-florida-us-sample-387037/releases/download/sample-latest/beamstation_387037_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
