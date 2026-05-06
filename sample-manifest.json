@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a304299c-8079-458d-bf4f-aafd8a89e75b",
+  "export_job_id": "eed41172-9001-48f7-a264-bc077735ab71",
   "id_short": 387037,
-  "published_at": "2026-04-28T19:17:14Z",
+  "published_at": "2026-05-06T07:05:56Z",
   "repo_name": "all-restaurants-in-pembroke-pines-florida-us-sample-387037",
   "sample_asset_name": "beamstation_387037_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/387037/beamstation_387037_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "7640037fcda7cee5cc59f0a2e397571c42e08b16da2aea9e9fbc6656d8447053",
-  "sample_size_bytes": 176355,
-  "total_records": 452
+  "sample_records": 47,
+  "sample_sha256": "012eb408ffb13c49a5202cf3379af239f1937da39f86d3974afe0e1e469056a6",
+  "sample_size_bytes": 183272,
+  "total_records": 478
 }
